@@ -1,3 +1,5 @@
+# Used to control Camera
+
 import numpy as np
 import cv2
 import socket
